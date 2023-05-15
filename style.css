@@ -25,8 +25,9 @@
         text-transform: uppercase;
         font-style: normal;
         color: #162542;
-        padding-left: 30px;
-        padding-right: 30px;
+        padding-left: 20px;
+        padding-right: 20px;
+        margin-left: 810px;
 
     }
     .button-one:hover{
@@ -38,9 +39,9 @@
 
     .div-one {
         display:flex;
-        width: 1110px;
-        margin-left: auto;
-        margin-right: auto;
+        width: 1040px;
+        margin-left: 115px;
+        margin-right: 180px;
         margin-top: 55px;
       }
     
@@ -163,7 +164,7 @@
 
     .feat{
         height: 323px;
-        width: 255px;
+        width: 230px;
         border-radius: 8px;
         display: inline-block;
         position: relative;
@@ -173,7 +174,7 @@
 
     .feat1{
         height: 323px;
-        width: 255px;
+        width: 239px;
         border-radius: 8px;
         display: inline-block;
         position: relative;
@@ -184,7 +185,7 @@
 
     .feat2{
         height: 323px;
-        width: 255px;
+        width: 230px;
         border-radius: 8px;
         display: inline-block;
         position: relative;
@@ -195,7 +196,7 @@
 
     .feat3{
         height: 323px;
-        width: 255px;
+        width: 240px;
         border-radius: 8px;
         display: inline-block;
         position: relative;
@@ -655,6 +656,11 @@
     .mech{
         top: 1100px;
         position: absolute;
+        width: 360px;
+        right: 0px;
+        left: 0px;
+        margin-left: auto;
+        margin-right: auto;
         }
       
     .mechh2{
@@ -663,10 +669,10 @@
         font-size: 32px;
         font-weight: 900;
         line-height: 36px;
-        margin-left: 25%;
-        margin-right: 25%;
+        margin-left: auto;
+        margin-right: auto;
         height: 108px;
-        width: 255px;
+        width: 300px;
         }
 
 
@@ -681,7 +687,8 @@
   
     .feat{
         height: 323px;
-        width: 255px;
+        width: auto;
+        text-align: center;
         border-radius: 8px;
         display: block;
         position: relative;
@@ -692,7 +699,8 @@
       
     .feat1{
         height: 323px;
-        width: 255px;
+        width: auto;
+        text-align: center;
         border-radius: 8px;
         display: block;
         position: relative;
@@ -703,7 +711,8 @@
       
     .feat2{
         height: 323px;
-        width: 255px;
+        width: auto;
+        text-align: center;
         border-radius: 8px;
         display: block;
         position: relative;
@@ -714,7 +723,8 @@
       
     .feat3{
         height: 323px;
-        width: 255px;
+        width: auto;
+        text-align: center;
         border-radius: 8px;
         display: block;
         position: relative;
